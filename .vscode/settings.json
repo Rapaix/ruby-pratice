@@ -1,0 +1,7 @@
+{
+    "ruby.codeCompletion": "rcodetools",
+    "ruby.intellisense": "rubyLocate",
+    "ruby.lint": {
+        "rubocop": true
+    }
+}
